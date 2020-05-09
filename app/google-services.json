@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "471340435256",
+    "firebase_url": "https://kissasiansh-fce5e.firebaseio.com",
+    "project_id": "kissasiansh-fce5e",
+    "storage_bucket": "kissasiansh-fce5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471340435256:android:635d6f68a261668a5c63cd",
+        "android_client_info": {
+          "package_name": "com.kissasian.sh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471340435256-1h8bli8f03ohmt5rb0svk273kvasnlhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM3p_lS6cHSb5QwZfv5XfOVqOHyLOTbtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471340435256-1h8bli8f03ohmt5rb0svk273kvasnlhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
